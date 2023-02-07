@@ -28,3 +28,18 @@ C:\Users\Troels\Desktop\C# Exercises\C-_Exercises\obj\Debug\net6.0\refint\hello.
 C:\Users\Troels\Desktop\C# Exercises\C-_Exercises\obj\Debug\net6.0\hello.pdb
 C:\Users\Troels\Desktop\C# Exercises\C-_Exercises\obj\Debug\net6.0\hello.genruntimeconfig.cache
 C:\Users\Troels\Desktop\C# Exercises\C-_Exercises\obj\Debug\net6.0\ref\hello.dll
+C:\Users\troel\Skrivebord\hello\bin\Debug\net6.0\hello.exe
+C:\Users\troel\Skrivebord\hello\bin\Debug\net6.0\hello.deps.json
+C:\Users\troel\Skrivebord\hello\bin\Debug\net6.0\hello.runtimeconfig.json
+C:\Users\troel\Skrivebord\hello\bin\Debug\net6.0\hello.dll
+C:\Users\troel\Skrivebord\hello\bin\Debug\net6.0\hello.pdb
+C:\Users\troel\Skrivebord\hello\obj\Debug\net6.0\hello.csproj.AssemblyReference.cache
+C:\Users\troel\Skrivebord\hello\obj\Debug\net6.0\hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\troel\Skrivebord\hello\obj\Debug\net6.0\hello.AssemblyInfoInputs.cache
+C:\Users\troel\Skrivebord\hello\obj\Debug\net6.0\hello.AssemblyInfo.cs
+C:\Users\troel\Skrivebord\hello\obj\Debug\net6.0\hello.csproj.CoreCompileInputs.cache
+C:\Users\troel\Skrivebord\hello\obj\Debug\net6.0\hello.dll
+C:\Users\troel\Skrivebord\hello\obj\Debug\net6.0\refint\hello.dll
+C:\Users\troel\Skrivebord\hello\obj\Debug\net6.0\hello.pdb
+C:\Users\troel\Skrivebord\hello\obj\Debug\net6.0\hello.genruntimeconfig.cache
+C:\Users\troel\Skrivebord\hello\obj\Debug\net6.0\ref\hello.dll

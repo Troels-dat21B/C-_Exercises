@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ebq0O89VUTRZWh0sAQ0WPlEC8bUYPlB/k3DWF58W0VSBqywj3ZN/USHf6TCfUFGJrOYW4/tlkwFpiGMiiA0ZLg==",
+  "dgSpecHash": "bnix4myKGcfGWa+kSK1DFJgGnHKAZjJGW4H/uFkV4Kuwdr4asp6TlR8OmO3LYXlGtPdh6JNdt31f4FmDSfzO4Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Troels\\Desktop\\C# Exercises\\C-_Exercises\\hello.csproj",
+  "projectFilePath": "C:\\Users\\troel\\Skrivebord\\hello\\hello.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
