@@ -1,0 +1,15 @@
+C:\Users\Troels\Desktop\C# Exercises\C#_Exercises_Data_Types\Ex\obj\Debug\net7.0\Data_Types.csproj.AssemblyReference.cache
+C:\Users\Troels\Desktop\C# Exercises\C#_Exercises_Data_Types\Ex\obj\Debug\net7.0\Data_Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Troels\Desktop\C# Exercises\C#_Exercises_Data_Types\Ex\obj\Debug\net7.0\Data_Types.AssemblyInfoInputs.cache
+C:\Users\Troels\Desktop\C# Exercises\C#_Exercises_Data_Types\Ex\obj\Debug\net7.0\Data_Types.AssemblyInfo.cs
+C:\Users\Troels\Desktop\C# Exercises\C#_Exercises_Data_Types\Ex\obj\Debug\net7.0\Data_Types.csproj.CoreCompileInputs.cache
+C:\Users\Troels\Desktop\C# Exercises\C#_Exercises_Data_Types\Ex\bin\Debug\net7.0\Data_Types.exe
+C:\Users\Troels\Desktop\C# Exercises\C#_Exercises_Data_Types\Ex\bin\Debug\net7.0\Data_Types.deps.json
+C:\Users\Troels\Desktop\C# Exercises\C#_Exercises_Data_Types\Ex\bin\Debug\net7.0\Data_Types.runtimeconfig.json
+C:\Users\Troels\Desktop\C# Exercises\C#_Exercises_Data_Types\Ex\bin\Debug\net7.0\Data_Types.dll
+C:\Users\Troels\Desktop\C# Exercises\C#_Exercises_Data_Types\Ex\bin\Debug\net7.0\Data_Types.pdb
+C:\Users\Troels\Desktop\C# Exercises\C#_Exercises_Data_Types\Ex\obj\Debug\net7.0\Data_Types.dll
+C:\Users\Troels\Desktop\C# Exercises\C#_Exercises_Data_Types\Ex\obj\Debug\net7.0\refint\Data_Types.dll
+C:\Users\Troels\Desktop\C# Exercises\C#_Exercises_Data_Types\Ex\obj\Debug\net7.0\Data_Types.pdb
+C:\Users\Troels\Desktop\C# Exercises\C#_Exercises_Data_Types\Ex\obj\Debug\net7.0\Data_Types.genruntimeconfig.cache
+C:\Users\Troels\Desktop\C# Exercises\C#_Exercises_Data_Types\Ex\obj\Debug\net7.0\ref\Data_Types.dll

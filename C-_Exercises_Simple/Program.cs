@@ -3,15 +3,15 @@
 public class Program
 {
     public static void Main()
-    {   
+    {
 
-       // Console.WriteLine(sumAdd());
-       // message();
+        // Console.WriteLine(sumAdd());
+        // message();
         //Console.WriteLine(sumDivide());
         //result();
         //swap();
         //Console.WriteLine("The product is: " + total());
-       // multipleSum();
+        // multipleSum();
         //multiplicationTable();
         //average();
         //exercise10();
@@ -23,34 +23,39 @@ public class Program
     }
 
     //Exercise 1
-    public static void message(){
+    public static void message()
+    {
         Console.WriteLine("Hello, World!");
     }
 
     //Exercise 2
-    public static int sumAdd(){
+    public static int sumAdd()
+    {
         int a = 1;
         int b = 2;
         return a + b;
     }
 
     //Exercise 3
-    public static int sumDivide(){
+    public static int sumDivide()
+    {
         int a = 10;
         int b = 2;
         return a / b;
     }
 
     //Exercise 4
-    public static void result(){
+    public static void result()
+    {
         Console.WriteLine(-1 + 4 * 6);
-        Console.WriteLine(( 35+ 5 ) % 7);
+        Console.WriteLine((35 + 5) % 7);
         Console.WriteLine(14 + -4 * 6 / 11);
         Console.WriteLine(2 + 15 / 6 * 1 - 7 % 2);
     }
 
     //Exercise 5
-    public static void swap(){
+    public static void swap()
+    {
         int a = 5;
         int b = 6;
         int temp = a;
@@ -58,14 +63,15 @@ public class Program
         Console.WriteLine("Input the Second Number : " + b);
         a = b;
         b = temp;
-        
+
         Console.WriteLine("After Swapping :");
         Console.WriteLine("First Number : " + a);
         Console.WriteLine("Second Number : " + b);
     }
 
     //Exercise 6
-    public static int total(){
+    public static int total()
+    {
         int a;
         int b;
         int c;
@@ -81,12 +87,13 @@ public class Program
         b = int.Parse(bString);
         c = int.Parse(cString);
 
-        
+
         return a * b * c;
     }
 
     //Exercise 7
-    public static void multipleSum(){
+    public static void multipleSum()
+    {
         //TODO: add console readability for input and output
         Console.Write("Input the First Number : ");
         string aString = Console.ReadLine() ?? throw new ArgumentNullException();
@@ -118,7 +125,8 @@ public class Program
 
     //Exercise 8
     //that takes a number as input and print its multiplication table
-    public static void multiplicationTable(){
+    public static void multiplicationTable()
+    {
         Console.Write("Input the number (Table to be calculated) : ");
         string aString = Console.ReadLine() ?? throw new ArgumentNullException();
         int a = int.Parse(aString);
@@ -131,7 +139,8 @@ public class Program
 
     //Exercise 9
     //Write a C# Sharp program that takes four numbers as input to calculate and print the average
-    public static void average(){
+    public static void average()
+    {
         Console.Write("Input the 1st number : ");
         string aString = Console.ReadLine() ?? throw new ArgumentNullException();
         Console.Write("Input the 2nd number : ");
@@ -154,7 +163,8 @@ public class Program
 
     //Exercise 10
     //Write a C# Sharp program to that takes three numbers(x,y,z) as input and print the output of (x+y).z and x.y + y.z.
-    public static void exercise10(){
+    public static void exercise10()
+    {
         Console.Write("Input the 1st number : ");
         string aString = Console.ReadLine() ?? throw new ArgumentNullException();
         Console.Write("Input the 2nd number : ");
@@ -174,7 +184,8 @@ public class Program
 
     //Exercise 11
     //Write a C# Sharp program that takes an age (for example 20) as input and prints something as "You look older than 20"
-    public static void exercise11(){
+    public static void exercise11()
+    {
         Console.Write("Input your age : ");
         string aString = Console.ReadLine() ?? throw new ArgumentNullException();
         int a = int.Parse(aString);
@@ -185,7 +196,8 @@ public class Program
     //Exercise 12
     // Write a C# program to that takes a number as input and display it four times in a row (separated by blank spaces), 
     //and then four times in the next row, with no separation. You should do it two times: Use Console. Write and then use {0}
-    public static void exercise12(){
+    public static void exercise12()
+    {
         Console.Write("Input a number : ");
         string aString = Console.ReadLine() ?? throw new ArgumentNullException();
         int a = int.Parse(aString);
@@ -198,7 +210,8 @@ public class Program
 
     //Exercise 13
     //Write a C# program that takes a number as input and then displays a rectangle of 3 columns wide and 5 rows tall using that digit.
-    public static void exercise13(){
+    public static void exercise13()
+    {
         Console.Write("Input a number : ");
         string aString = Console.ReadLine() ?? throw new ArgumentNullException();
         int a = int.Parse(aString);
@@ -212,7 +225,8 @@ public class Program
 
     //Exercise 14
     //Write a C# program to convert from celsius degrees to Kelvin and Fahrenheit.
-    public static void exercise14(){
+    public static void exercise14()
+    {
         Console.Write("Input the amount of celsius : ");
         string aString = Console.ReadLine() ?? throw new ArgumentNullException();
         int a = int.Parse(aString);
@@ -226,7 +240,8 @@ public class Program
 
     //Exercise 15
     //Write a C# program remove specified a character from a non-empty string using index of a character.
-    public static void exercise15(){
+    public static void exercise15()
+    {
         Console.Write("Input a string : ");
         string aString = Console.ReadLine() ?? throw new ArgumentNullException();
         Console.Write("Input the character to be removed : ");
@@ -240,7 +255,8 @@ public class Program
 
     //Exercise 16
     //Write a C# program to create a new string from a given string where the first and last characters will change their positions.
-    public static void exercise16(){
+    public static void exercise16()
+    {
         Console.Write("Input a string : ");
         string aString = Console.ReadLine() ?? throw new ArgumentNullException();
 
