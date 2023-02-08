@@ -1,4 +1,4 @@
-﻿
+﻿using System;
 //https://www.w3resource.com/csharp-exercises/basic/index.php
 public class Program
 {
