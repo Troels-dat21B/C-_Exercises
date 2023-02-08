@@ -1,5 +1,5 @@
-﻿using System;
-//https://www.w3resource.com/csharp-exercises/basic/index.php
+﻿//https://www.w3resource.com/csharp-exercises/basic/index.php
+
 public class Program
 {
     public static void Main()
